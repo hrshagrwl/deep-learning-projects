@@ -3,7 +3,7 @@
 - [Back Propagation implementation in Python](https://github.com/hrshagrwl/back-propagation)
 - [MNIST Digit Classification using CNNs](https://github.com/hrshagrwl/cnn-mnist-classification)
 - [RNN and LSTM for hand rocking motion detection](https://github.com/hrshagrwl/body-rocking-behavior-recognition-rnn)
-- [Recurrent Neural Network]()
+- [Recurrent Neural Network](https://github.com/hrshagrwl/deep-learning-projects/tree/master/RNN)
 
 ## Capstone Project
 
